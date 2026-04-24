@@ -4,7 +4,7 @@
 - [Instructions and example](https://github.com/Atlantis-Ecosystem-Model/Atlantis_example_and_instructions)
 
 ### Project Board
-- [Project development board](https://github.com/orgs/Atlantis-Ecosystem-Model/projects/1) - Main development board.
+- [Project development board](https://github.com/orgs/Atlantis-Ecosystem-Model/projects/1) - Main development board. Place to add feature requests and wishlist of new tools.
 
 ### Model documentation
 - [Atlantis ecosystem model documentation](https://github.com/Atlantis-Ecosystem-Model/AtlantisManual). Live document on Atlantis 
