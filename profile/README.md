@@ -1,12 +1,14 @@
-## Hi there 👋
+Atlantis is a living piece of software. While the information here faithfully reflects the model's state, development moves quickly. If you are interested in applying Atlantis, read all the materials in this Organization:
 
-<!--
+### Getting started with Atlantis
+- [Instructions and example](https://github.com/Atlantis-Ecosystem-Model/Atlantis_example_and_instructions)
 
-**Here are some ideas to get you started:**
+### Project Board
+- [Project development board](https://github.com/orgs/Atlantis-Ecosystem-Model/projects/1)) - Main development board.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Model documentation
+- [Atlantis ecosystem model documentation](https://github.com/Atlantis-Ecosystem-Model/AtlantisManual). Live document on Atlantis 
+- [Atlantis ecosystem model wiki](https://github.com/Atlantis-Ecosystem-Model/atlantis-wiki). Information prior to 2024. Not currently updated. 
+
+#### [Atlantis code repository](https://github.com/Atlantis-Ecosystem-Model/AtlantisTrunk)
+
