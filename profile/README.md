@@ -10,5 +10,6 @@
 - [Atlantis ecosystem model documentation](https://github.com/Atlantis-Ecosystem-Model/AtlantisManual). Live document on Atlantis 
 - [Atlantis ecosystem model wiki](https://github.com/Atlantis-Ecosystem-Model/atlantis-wiki). Information prior to 2024. Not currently updated. 
 
-#### [Atlantis code repository](https://github.com/Atlantis-Ecosystem-Model/AtlantisTrunk)
+### [Atlantis code repository](https://github.com/Atlantis-Ecosystem-Model/AtlantisTrunk)
 
+##### [Historical Atlantis code archive](https://github.com/Atlantis-Ecosystem-Model/AtlantisFromSVN). Atlantis code versions prior to 2024.
